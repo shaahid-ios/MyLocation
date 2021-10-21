@@ -1,0 +1,6 @@
+framework module Pods_MyMapLocation_MyMapLocationUITests {
+  umbrella header "Pods-MyMapLocation-MyMapLocationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
